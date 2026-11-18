@@ -1,35 +1,26 @@
-# QR Code Generator
+# Albion Online — Crystal Reaper Ava Raid
 
-A simple Python command-line tool for generating QR code images from links.
+Profil **X-Mouse Button Control (XMBC)** untuk Albion Online.
 
-## Requirements
+## Isi
 
-- Python 3.8+
-- `qrcode`
-- `Pillow`
+- `Albion Online Client.xmbcs` — profil XMBC untuk `albion-online.exe`
+- `buat-qr.py` — generator QR code
+- `kode-qr.png` — output QR code
 
-## Installation
+## Cara import profil
 
-```bash
-python -m pip install "qrcode[pil]"
-```
+1. Install dan buka [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm).
+2. Import file `Albion Online Client.xmbcs` melalui menu profil XMBC.
+3. Pastikan aplikasi target terdeteksi sebagai `albion-online.exe`.
+4. Uji di area aman sebelum masuk Ava Raid.
 
-## Usage
+## Catatan Crystal Reaper
 
-```bash
-python buat-qr.py
-```
+Gunakan sebagai referensi pengaturan tombol saja. Tetap lakukan input manual, jaga positioning, tunggu cooldown, lalu prioritaskan target sesuai mekanik raid.
 
-Follow the prompts:
+> Periksa Terms of Service Albion Online sebelum memakai remapping atau sequence input. Fitur otomatis/macro dapat dianggap tidak diizinkan dan berisiko mendapat sanksi akun. Gunakan hanya jika sesuai aturan resmi.
 
-```text
-Enter the link to generate a QR code: github.com/bgzs89
-Enter the image filename: github-profile
-QR code saved at: D:\Push Github\github-profile.png
-```
-
-The tool automatically adds `https://` when the link does not include a protocol. The output image is saved in the current terminal folder.
-
-## License
+## Lisensi
 
 MIT
