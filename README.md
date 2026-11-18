@@ -1,26 +1,24 @@
 # Albion Online — Crystal Reaper Ava Raid
 
-Profil **X-Mouse Button Control (XMBC)** untuk Albion Online.
+An **X-Mouse Button Control (XMBC)** profile for Albion Online.
 
-## Isi
+## Contents
 
-- `Albion Online Client.xmbcs` — profil XMBC untuk `albion-online.exe`
-- `buat-qr.py` — generator QR code
-- `kode-qr.png` — output QR code
+- `Albion Online Client.xmbcs` — XMBC profile for `albion-online.exe`
 
-## Cara import profil
+## Importing the Profile
 
-1. Install dan buka [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm).
-2. Import file `Albion Online Client.xmbcs` melalui menu profil XMBC.
-3. Pastikan aplikasi target terdeteksi sebagai `albion-online.exe`.
-4. Uji di area aman sebelum masuk Ava Raid.
+1. Install and open [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm).
+2. Import `Albion Online Client.xmbcs` through the XMBC profile menu.
+3. Confirm that the target application is detected as `albion-online.exe`.
+4. Test the profile in a safe area before entering an Ava Raid.
 
-## Catatan Crystal Reaper
+## Crystal Reaper Tips
 
-Gunakan sebagai referensi pengaturan tombol saja. Tetap lakukan input manual, jaga positioning, tunggu cooldown, lalu prioritaskan target sesuai mekanik raid.
+Use this profile as a button-remapping reference. Perform inputs manually, maintain proper positioning, wait for cooldowns, and prioritize targets according to the raid mechanics.
 
-> Periksa Terms of Service Albion Online sebelum memakai remapping atau sequence input. Fitur otomatis/macro dapat dianggap tidak diizinkan dan berisiko mendapat sanksi akun. Gunakan hanya jika sesuai aturan resmi.
+> Check Albion Online's Terms of Service before using any remapping or input-sequence feature. Automated features or macros may be prohibited and could result in account sanctions. Use this profile only when permitted by the official rules.
 
-## Lisensi
+## License
 
 MIT
